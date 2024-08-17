@@ -1,0 +1,4 @@
+Python is a programming language that lets you work quickly and integrate systems more effectively.
+Transformers provides thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio.
+Machine learning is a method of data analysis that automates analytical model building.
+The PyTorch framework is commonly used for deep learning tasks.
